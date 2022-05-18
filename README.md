@@ -4,9 +4,9 @@ Hi 👋  Gabe here
 Software developer
 ------------------
 
-*🌴 I'm based in Los Angeles, California
+* 🌴  I'm based in Los Angeles, California
 * 🖥️  See my portfolio at [this link.](http://https://portfolio-five-murex.vercel.app/)
-* ✉️  You can contact me at [guevara.a.gabriel@gmail.com](mailto:guevara.a.gabriel@gmail.com)
+* 📧  You can contact me at [guevara.a.gabriel@gmail.com](mailto:guevara.a.gabriel@gmail.com)
 * 🧠  I'm learning Java and TypeScript
 * 🤝  I'm open to collaborating on interesting web development projects
 ### Skills
