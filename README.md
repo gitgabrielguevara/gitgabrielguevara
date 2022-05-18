@@ -5,15 +5,10 @@ Software developer
 ------------------
 
 *🌴 I'm based in Los Angeles, California
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-
-* 🌍  I'm based in Vancouver, BC.
 * 🖥️  See my portfolio at [this link.](http://https://portfolio-five-murex.vercel.app/)
-* ✉️  You can contact me at [itsjamelscott@gmail.com](mailto:itsjamelscott@gmail.com)
-* 🧠  I'm learning Flow Blockchain technology, Framer-Motion and TypeScript
-* 🤝  I'm open to collaborating on blockchain/W3 and web development projects
+* ✉️  You can contact me at [guevara.a.gabriel@gmail.com](mailto:guevara.a.gabriel@gmail.com)
+* 🧠  I'm learning Java and TypeScript
+* 🤝  I'm open to collaborating on interesting web development projects
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
