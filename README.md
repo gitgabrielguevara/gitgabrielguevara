@@ -1,17 +1,13 @@
-Hi 👋  My name is Gabriel but you can call me Gabe
+Hi 👋  Gabe here
 =======================
 
 Software developer
 ------------------
 
-I'm based in Los Angeles, California
+*🌴 I'm based in Los Angeles, California
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
-Hi 👋 My name is Jamel.
-=======================
-
-
 
 * 🌍  I'm based in Vancouver, BC.
 * 🖥️  See my portfolio at [this link.](http://https://portfolio-five-murex.vercel.app/)
