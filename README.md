@@ -7,7 +7,7 @@ Software developer
 * 🌴  I'm based in Los Angeles, California
 * 🖥️  See my portfolio at [this link.](https://portfolio-website-git-main-gitgabrielguevara.vercel.app/)
 * 📧  You can contact me at [guevara.a.gabriel@gmail.com](mailto:guevara.a.gabriel@gmail.com)
-* 🧠  I'm learning C# and Java
+* 🧠  I'm learning Java and AWS Cloud Development
 * 🤝  I'm open to collaborating on new web development projects
 ### Skills
 <p align="left">
